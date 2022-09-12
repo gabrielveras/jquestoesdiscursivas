@@ -4,4 +4,4 @@ Resolução de questões discursivas de concursos em Java.
 
 ## Concursos Resolvidos
 
-- `Senado Federal`: 2012
+- Senado Federal: 2012
