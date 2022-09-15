@@ -4,4 +4,5 @@ Resolução de questões discursivas de concursos em Java.
 
 ## Concursos Resolvidos
 
-- Senado Federal: 2012
+- Prefeitura de Niterói - RJ: 2018 (FGV)
+- Senado Federal: 2012 (FGV)
