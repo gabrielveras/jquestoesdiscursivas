@@ -7,3 +7,9 @@ bin/prefeituraniteroirj2018/README.md
 bin/prefeituraniteroirj2018/Utils.class
 bin/senadofederal2012/README.md
 bin/trf32019/README.md
+bin/bndes2013/estruturas/Arv.class
+bin/bndes2013/estruturas/ArvNo.class
+bin/bndes2013/vendas/NotaFiscal.class
+bin/bndes2013/vendas/NotaPF.class
+bin/bndes2013/vendas/NotaPJ.class
+bin/bndes2013/README.md

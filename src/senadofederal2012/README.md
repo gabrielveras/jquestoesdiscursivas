@@ -1,12 +1,12 @@
-## Senado Federal 2012
+## FGV - 2012 - Senado Federal
 
-### Listas encadeadas
+### Analista Legislativo - Análise de Sistemas - Reaplicação
 
 Em uma lista encadeada, um novo espaço de memória é alocado para armazenar cada novo elemento inserido na estrutura. Desta forma, o espaço total de memória gasto pela lista é proporcional ao número de elementos nela armazenados. No entanto, não podemos garantir que os elementos da lista sejam armazenados em posições contíguas de memória, não sendo possível, portanto, o acesso direto aos elementos da lista. Para que seja possível percorrer todos os elementos da lista, devemos explicitamente guardar o encadeamento dos elementos, o que é feito armazenando-se, junto com a informação de cada elemento, um ponteiro para o próximo elemento da lista.
 
-![ [cabeca] -> [info1] -> [info2] -> [info3] -> ... ](figura1.png)
-
 A figura a seguir ilustra o arranjo da memória de uma lista encadeada.
+
+![ [cabeca] -> [info1] -> [info2] -> [info3] -> ... ](figura1.png)
 
 A classe ListaNos a seguir, implementa uma lista simplesmente encadeada, não ordenada, onde cada nó é uma instância de NoInt, cujo código é também fornecido.
 

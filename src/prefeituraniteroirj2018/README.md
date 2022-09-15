@@ -1,6 +1,6 @@
-## Prefeitura de Niterói - RJ 2018
+## FGV - 2018 - Prefeitura de Niterói - RJ
 
-### Analista de Políticas Públicas e Gestão Governamental
+### Analista de Políticas Públicas e Gestão Governamental - Gestão de Tecnologia
 
 Escreva o código em linguagem de programação Java de uma classe utilitária denominada Utils.
 
